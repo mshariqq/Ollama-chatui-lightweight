@@ -21,3 +21,4 @@ Made with ❤️ by Muhammed Shariqq Ahmed
 - HIRE Me on Whatsapp | [Open Whatsapp](https://wa.me/917997807419)
 - Email | mshariq@cksoftwares.com
 - ~ Hyderabad, India
+Built by [SHA REEQ](https://mshariqq.github.io/) - M Shariq Ahmed (mshariqq), Web Developer in Hyderabad.
